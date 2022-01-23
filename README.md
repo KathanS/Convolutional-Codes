@@ -4,6 +4,8 @@ I won Gold Medal for this project in CT111 course conducted in second sem by Pro
 
 Project is on the software implementation and performance analysis of the convolution coding scheme. Simulation was done in the following way: output of convolutional encoder was passed through the BSC, BEC and the Gaussian channels, and for each channel, the received sequence was decoded using a convolutional decoding algorithm.
 
+## [Convolutional Codes Presentation, Kathan Sanghavi](/Convolutional_Codes_Kathan_Sanghavi.pdf)
+
 ## Simulation Results
 ![result1](/Simulation_Results/Basic.jpg)
 ![result2](/Simulation_Results/Intermediate1.jpg)
